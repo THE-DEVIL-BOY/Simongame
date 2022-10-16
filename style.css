@@ -1,0 +1,52 @@
+body{
+    background-color: #06283D;
+    text-align: center;
+} 
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 500%;
+    font-family:'Press Start 2P', cursive;
+    padding-top: 3rem;
+    margin-bottom:4rem ;
+}
+
+.st{
+    width: 200px; 
+    height: 230px;
+    display: inline-block;
+    margin: 35px;
+    border-radius: 20%;
+    border: 10px;
+    border-style: solid;
+    border-color: black;
+}
+.container {
+    display: block;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+  
+}
+
+.g{
+    background-color: green;
+}
+.r{
+    background-color: red;
+}
+.b{
+    background-color: blue;
+}
+.y{
+    background-color: yellow;
+}
+
+.pressed {
+    box-shadow: 0 0 20px white;
+    background-color: grey;
+}
+.fade{
+    background-color: gray;
+    opacity: 0.8;
+}
